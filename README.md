@@ -1,6 +1,7 @@
-# Hey there, this is Elif!
+# Hey there, this is Elif 👋
 
-I am a backend engineer working with Java and Spring Boot professionally, and learning building Go backend projects in my personal time.
+I am a backend developer focused on Go, concurrency, and REST APIs.
+Professionally working with Java and Spring Boot, while building Go backend and CLI tools in my personal projects.
 
 I enjoy building small but production-style backend tools to understand how systems behave under load and concurrency.
 
@@ -8,13 +9,14 @@ I enjoy building small but production-style backend tools to understand how syst
 
 ## Current focus
 
-- Backend development using Go.
-- Go concurrency patterns.
+- Go backend development
+- Go concurrency patterns
+- Worker pool design
 - REST API development
 
 ---
 
-## Projects (my favourites)
+## Projects (favorites)
 
 - httpbin-clone → HTTP debugging service written in Go
 - Finance Tracker API → REST API MVP
@@ -25,4 +27,5 @@ I enjoy building small but production-style backend tools to understand how syst
 
 ## Tech
 
- Go • Java • Spring Boot • REST APIs • Concurrency
+Go • Java • Spring Boot • REST APIs • Concurrency
+
