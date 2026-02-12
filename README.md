@@ -3,7 +3,7 @@
 I am a backend developer focused on Go, concurrency, and REST APIs.
 Professionally working with Java and Spring Boot, while building Go backend and CLI tools in my personal projects.
 
-I enjoy building small but production-style backend tools to understand how systems behave under load and concurrency.
+I enjoy building small but production-style backend tools.
 
 ---
 
