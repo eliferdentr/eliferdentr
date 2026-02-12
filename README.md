@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there, this is Elif!
 
-<!--
-**eliferdentr/eliferdentr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a backend engineer working with Java and Spring Boot professionally, and learning building Go backend projects in my personal time.
 
-Here are some ideas to get you started:
+I enjoy building small but production-style backend tools to understand how systems behave under load and concurrency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current focus
+
+- Backend development using Go.
+- Go concurrency patterns.
+- REST API development
+
+---
+
+## Projects (my favourites)
+
+- httpbin-clone → HTTP debugging service written in Go
+- Finance Tracker API → REST API MVP
+- Pulse → concurrent worker-pool service
+- Concurrent Uptime Checker → CLI concurrency tool
+
+---
+
+## Tech
+
+ Go • Java • Spring Boot • REST APIs • Concurrency
